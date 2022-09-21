@@ -15,7 +15,7 @@ We also observe by cases that the proposed prompt-tuning strategy is effective i
 python: 3.8
 PyTorch: 1.9.0
 transformers: 4.10.0
-OpenPrompt framework: based on Python 3.8+ and PyTorch 1.8.1+
+openprompt: 0.1.1
 ```
 you can go [here](https://github.com/thunlp/OpenPrompt) to know more about OpenPrompt. 
 
