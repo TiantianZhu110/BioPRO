@@ -1,9 +1,7 @@
 # BIOPRO 
---
 &ensp;&ensp;&ensp;&ensp;code for IJCAI 2022 paper: **Enhancing Entity Representations with Prompt Learning for Biomedical Entity Linking.**
 
 # Introduction
--- 
 &ensp;&ensp;&ensp;&ensp;we propose a two-stage entity linking algorithm to enhance the entity representations based on prompt learning. The first stage includes a coarser-grained retrieval from a representation space defined by a bi encoder that independently embeds the mentions and entities’ surface forms. Unlike previous one-model-fits-all systems, each candidate is then re-ranked with a finer-grained encoder based on prompt-tuning that concatenates the mention context and entity information. Extensive experiments show that our model achieves promising performance improvements compared with several state of-the-art techniques on the largest biomedical public dataset MedMentions and the NCBI disease corpus.
 We also observe by cases that the proposed prompt-tuning strategy is effective in solving both the variety and ambiguity challenges in the linking task. 
 
@@ -16,6 +14,7 @@ We also observe by cases that the proposed prompt-tuning strategy is effective i
 ```
 python: 3.8
 PyTorch: 1.9.0
+transformers: 4.10.0
 OpenPrompt framework: based on Python 3.8+ and PyTorch 1.8.1+
 ```
 you can go [here](https://github.com/thunlp/OpenPrompt) to know more about OpenPrompt. 
