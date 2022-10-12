@@ -271,9 +271,6 @@ class PromptData(TrainDataGener):
                 cand_list = []
                 for item in candidates:
                     cand_list.append(item["labelcui"])
-                if res_item["golden_cui"] not in cand_list:
-                    candidates[-1]["labelcui"] = res_item["golden_cui"]
-                    candidates[-1]["name"] = self.golden_ent_id_names[res_item["golden_cui"]][0]
 
                 for candidata in candidates:
                     cui = candidata["labelcui"]
