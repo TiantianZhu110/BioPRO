@@ -295,9 +295,9 @@ if __name__ == "__main__":
     # 生成prompt格式样本
     pd = PromptData()
 
-    pd.prompt_data(prediction_data="norm_data/predictions_eval_train_pubmedbert_top10.json",
-                    origin_data="norm_data/medmention.train")
+    pd.prompt_data(prediction_data="predictions_train_sapbert_top10.json",
+                    origin_data="medmention.train")
 
     # 生成prompt格式待预测样本
-    pd.prompt_data_for_test(prediction_data="norm_data/predictions_eval_test.json",
-                             origin_data="norm_data/medmention.test")
+    pd.prompt_data_for_test(prediction_data="predictions_test_top10.json",
+                             origin_data="medmention.test")
