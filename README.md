@@ -30,7 +30,7 @@ you can go [here](https://github.com/thunlp/OpenPrompt) to know more about OpenP
 
 4.Run prompt\_ranking/prompt\_medicine\_predict.py to predict the result.
 
-5.Run prompt\_retrieval/prompt\_entity\_vector.py to generate mention and entity vector wit prompt model.
+5.Run prompt\_retrieval/prompt\_entity\_vector.py to generate mention and entity vector with prompt model.
 
 6.Run prompt\_retrieval/vector\_search.py to serach top N candidates with prompt model.
 
