@@ -11,10 +11,10 @@ class TrainDataGener(object):
     normal train data
     """
     def __init__(self):
-        self.data_path = "evaluation/data/medmentions/raw/medmentions_train.txt"
-        self.golden_ent_file = "evaluation/data/medmentions/resources/fangyu_provide/umls2017aa_reference_ont.txt"
-        self.golden_type_file = "evaluation/predictions/medmentions_fast_formal_fangyu/MRSTY.RRF"
-        self.type_file = "evaluation/predictions/medmentions_fast_formal_fangyu/SRDEF"
+        self.data_path = "medmentions_train.txt"
+        self.golden_ent_file = "umls2017aa_reference_ont.txt"
+        self.golden_type_file = "MRSTY.RRF"
+        self.type_file = "SRDEF"
         self.load()
 
     def load(self):
@@ -295,7 +295,7 @@ if __name__ == "__main__":
     # 生成prompt格式样本
     pd = PromptData()
 
-    pd.prompt_data(prediction_data="norm_data/predictions_eval_train_pubmedbert_top20.json",
+    pd.prompt_data(prediction_data="norm_data/predictions_eval_train_pubmedbert_top10.json",
                     origin_data="norm_data/medmention.train")
 
     # 生成prompt格式待预测样本
