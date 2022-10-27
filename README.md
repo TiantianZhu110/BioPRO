@@ -22,7 +22,7 @@ you can go [here](https://github.com/thunlp/OpenPrompt) to know more about OpenP
 
 # How to run the code?
 
-1.download the pytorch based pubmed bert pretrained model from [here](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext/tree/main), and put it to the folder "pretrain".
+1.Download the pytorch based pubmed bert pretrained model from [here](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext/tree/main), and put it to the folder "pretrain".
 
 2.Generate training sample and test sample data according to the file data_process/data\_process.py.Provide entity dictionary file, entity type information file, and corresponding sample files of mention and gold entity according to the code description to generate corresponding training samples.
 
