@@ -1,0 +1,15 @@
+9973276||0|30||SpecificDisease||inherited colorectal polyposis||D011125
+9973276||35|41||Modifier||cancer||D009369
+9973276||129|132||Modifier||apc||D011125
+9973276||162|178||Modifier||colorectal tumor||D015179
+9973276||192|231||SpecificDisease||familial adenomatous polyposis syndrome||D011125
+9973276||364|367||Modifier||apc||D011125
+9973276||473|476||Modifier||apc||D011125
+9973276||600|618||SpecificDisease||adenomatous polyps||D018256
+9973276||627|645||SpecificDisease||colorectal cancer||D015179
+9973276||904|924||SpecificDisease||colorectal neoplasia||D015179
+9973276||1026|1034||DiseaseClass||adenomas||D000236
+9973276||1039|1057||SpecificDisease||colorectal cancers||D015179
+9973276||1179|1186||Modifier||adenoma||D000236
+9973276||1256|1273||SpecificDisease||colorectal cancer||D015179
+9973276||1507|1524||Modifier||colorectal cancer||D015179

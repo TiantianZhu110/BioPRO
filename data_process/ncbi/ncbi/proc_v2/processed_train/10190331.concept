@@ -1,0 +1,14 @@
+10190331||0|26||SpecificDisease||non syndromic hearing loss||C537845
+10190331||43|71||SpecificDisease||enlarged vestibular aqueduct||600791
+10190331||85|88||Modifier||pds||C536648
+10190331||100|128||SpecificDisease||enlarged vestibular aqueduct||600791
+10190331||130|133||SpecificDisease||enlarged vestibular aqueduct||600791
+10190331||169|190||DiseaseClass||inner ear abnormality||D007759
+10190331||312|352||SpecificDisease||non syndromic sensorineural hearing loss||C537845
+10190331||358|361||SpecificDisease||enlarged vestibular aqueduct||600791
+10190331||423|439||Modifier||pendred syndrome||C536648
+10190331||492|495||Modifier||pds||C536648
+10190331||533|549||SpecificDisease||pendred syndrome||C536648
+10190331||582|622||SpecificDisease||non syndromic sensorineural hearing loss||C537845
+10190331||628|631||SpecificDisease||enlarged vestibular aqueduct||600791
+10190331||843|883||CompositeMention||syndromic hearing loss|non syndromic hearing loss||D034381|C537845

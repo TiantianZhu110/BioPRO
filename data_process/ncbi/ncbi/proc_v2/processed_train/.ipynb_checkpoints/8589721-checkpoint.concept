@@ -1,0 +1,11 @@
+8589721||0|18||DiseaseClass||growth retardation||D006130
+8589721||23|29||Modifier||tumor||D009369
+8589721||94|119||CompositeMention||breast and ovarian cancer||D061325
+8589721||155|180||CompositeMention||breast cancer|ovarian cancer||D001943|D010051
+8589721||309|334||Modifier||breast cancer|ovarian cancer||D001943|D010051
+8589721||362|382||Modifier||colon cancer|lung cancer||D003110|D008175
+8589721||445|458||Modifier||breast cancer||D001943
+8589721||466|480||Modifier||ovarian cancer||D010051
+8589721||612|625||DiseaseClass||mcf 7 tumors||D009369
+8589721||770|783||DiseaseClass||mcf 7 tumors||D009369
+8589721||881|887||Modifier||tumor||D009369

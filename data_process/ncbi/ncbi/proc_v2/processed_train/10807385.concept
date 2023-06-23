@@ -1,0 +1,17 @@
+10807385||30|69||CompositeMention||brca linked and sporadic ovarian cancer||D010051
+10807385||85|111||SpecificDisease||hereditary ovarian cancers||D061325
+10807385||242|256||SpecificDisease||ovarian cancer||D010051
+10807385||355|381||SpecificDisease||hereditary ovarian cancers||D061325
+10807385||445|485||SpecificDisease||sporadic nonhereditary ovarian cancers||D010051
+10807385||565|580||SpecificDisease||ovarian cancers||D010051
+10807385||648|654||Modifier||cancer||D009369
+10807385||692|698||Modifier||cancer||D009369
+10807385||1223|1237||SpecificDisease||ovarian cancer||D010051
+10807385||1517|1535||DiseaseClass||hereditary cancers||D009369
+10807385||2069|2087||DiseaseClass||hereditary cancers||D009369
+10807385||2164|2181||DiseaseClass||stage iii cancers||D009369
+10807385||2276|2318||SpecificDisease||brca associated hereditary ovarian cancers||604370|612555|613399
+10807385||2405|2421||DiseaseClass||sporadic cancers||D009369
+10807385||2423|2455||Modifier||advanced stage hereditary cancer||D009386
+10807385||2485|2505||Modifier||nonhereditary cancer||D009369
+10807385||2546|2588||CompositeMention||brca1 linked than for brca2 linked cancers||604370|612555

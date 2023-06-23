@@ -1,0 +1,8 @@
+3162536||16|34||DiseaseClass||muscular dystrophy||D009136
+3162536||146|183||CompositeMention||duchenne muscular dystrophy|becker muscular dystrophy||D020388|C537666
+3162536||185|188||SpecificDisease||dmd||D020388
+3162536||192|195||SpecificDisease||bmd||C537666
+3162536||392|395||Modifier||dmd||D020388
+3162536||471|474||Modifier||bmd||C537666
+3162536||546|549||Modifier||dmd||D020388
+3162536||664|667||SpecificDisease||dmd||D020388

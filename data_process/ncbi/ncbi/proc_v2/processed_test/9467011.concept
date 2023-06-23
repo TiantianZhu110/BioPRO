@@ -1,0 +1,28 @@
+9467011||53|67||SpecificDisease||cowden disease||D006223
+9467011||72|96||SpecificDisease||bannayan zonana syndrome||D006223
+9467011||102|121||DiseaseClass||hamartoma syndromes||D006223
+9467011||155|161||Modifier||tumor||D009369
+9467011||354|364||DiseaseClass||malignancy||D009369
+9467011||420|470||Modifier||sporadic breast cancer|brain cancer|prostate cancer|kidney cancer||D001943|D001932|D011471|D007680
+9467011||505|512||DiseaseClass||tumors||D009369
+9467011||521|543||SpecificDisease||endometrial carcinomas||D016889
+9467011||545|563||SpecificDisease||malignant melanoma||D008545
+9467011||568|583||SpecificDisease||thyroid tumors||D013964
+9467011||653|672||DiseaseClass||hamartoma syndromes||D006223
+9467011||674|688||SpecificDisease||cowden disease||D006223
+9467011||690|692||SpecificDisease||cowden disease||D006223
+9467011||710|765||CompositeMention||bannayan zonana bzs or ruvalcaba riley smith syndrome||D006223
+9467011||805|807||Modifier||cowden disease||D006223
+9467011||827|830||Modifier||bzs||D006223
+9467011||931|933||Modifier||cowden disease||D006223
+9467011||1215|1217||SpecificDisease||cowden disease||D006223
+9467011||1300|1302||Modifier||cowden disease||D006223
+9467011||1575|1578||Modifier||bzs||D006223
+9467011||1799|1801||Modifier||cowden disease||D006223
+9467011||1819|1822||Modifier||bzs||D006223
+9467011||1900|1903||Modifier||bzs||D006223
+9467011||1966|1968||Modifier||cowden disease||D006223
+9467011||2109|2111||Modifier||cowden disease||D006223
+9467011||2126|2140||DiseaseClass||breast disease||D001941
+9467011||2406|2430||DiseaseClass||malignant breast disease||D001941
+9467011||2825|2827||Modifier||cowden disease||D006223
